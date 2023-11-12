@@ -5,4 +5,4 @@ With limited time, I just created some basic features example: Create, Delete, E
 I use two main techs React and Firebase
 
 # Link
-https://minhtriet0612.github.io/ToDoList/
+: https://minhtriet0612.github.io/DoAnITMC
